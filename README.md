@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Jacqueline McVeigh. I'm a second-year Computer Science student at the University of Chicago. 
+- 👋 Hi, I’m Jacqueline McVeigh. I'm a third-year Computer Science student at the University of Chicago. 
 - 🩷 I’m interested in data science and machine learning ethics.
-- 🌱 I’m currently learning advanced Python and C concepts in my CS classes, data preparation and analysis in my DS classes, and front-end UI techniques on my own.
+- 🌱 I’m currently learning advanced C concepts in my CS classes, data preparation and analysis in my DS classes, and front-end UI techniques on my own.
 - 📫 You can reach me at my email jacqueline.mcveigh@gmail.com
 - 🐝 Pronouns: She/Her
 - ✨ Fun fact: I am a classically trained opera singer!
